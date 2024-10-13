@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 
 *storybook.log
+# Ignore Storybook build folder
+storybook-static
